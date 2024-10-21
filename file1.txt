@@ -7,3 +7,4 @@ sentence 4 github
 sentence 4
 sentence 5
 >>>>>>> 0ffc8a2 (4th commit)
+sentence what?
